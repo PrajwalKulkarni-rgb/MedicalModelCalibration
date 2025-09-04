@@ -1,0 +1,12 @@
+__pycache__/
+*.log
+*.pkl
+*.pt
+*.ipynb_checkpoints/
+data/
+*.env
+.vscode/
+*.jpg
+*.png
+*.jpeg
+checkpoints/
